@@ -23,3 +23,10 @@ function getAPOD(apod){
 
     articleEl.append(newArticle);
 };
+
+
+function getAPOD(apod){
+  articleEl.innerHTML += `
+  
+  `
+}
