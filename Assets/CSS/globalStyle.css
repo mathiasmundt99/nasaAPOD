@@ -37,7 +37,17 @@ button {
     background-color: #0056b3;
   }
 
+  p{
+    max-width: 65ch;
+  }
+
   img{
-    max-width: 100%;
+    width: 70vh;
     height: auto;
+  }
+
+  .apodDiv{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
   }
